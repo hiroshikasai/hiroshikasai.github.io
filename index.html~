@@ -3,7 +3,7 @@ layout: default
 ---
 {% include header.html %}
 
-<div class="list">
+<!-- <div class="list">
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}
@@ -30,7 +30,7 @@ layout: default
 
 
   </div>
-{% endfor %}
+{% endfor %} -->
   <!-- Pagination links -->
   <div class="list-pagination">
     <span class="list-pagination-previous">
