@@ -46,8 +46,8 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
+  - name:           "Profile"
+    url:            "/profile"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
