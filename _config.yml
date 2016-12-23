@@ -46,12 +46,14 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "Profile"
+  - name:           "プロフィール"
     url:            "/profile"
-  - name:           "Archive"
-    url:            "/archive"
-  - name:           "Tags"
-    url:            "/tags"
+  - name:           " 開設理念"
+    url:            "/philosophy"
+#  - name:           "Archive"
+#    url:            "/archive"
+#  - name:           "Tags"
+#    url:            "/tags"
 #  - name:           "Github"
 #    url:            "https://github.com/AWEEKJ/Kiko-plus"
 
