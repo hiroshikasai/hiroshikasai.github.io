@@ -3,18 +3,18 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "笠井数学塾"
 
 
 
 author:
-  name:             Jungo Kasai
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
+  name:             Hiroshi Kasai
+#  facebook:         your-id
+#  twitter:          your-id
+#  github:           your-id
+#  linkedin:         your-id
+#  medium:           your-id
+#  tumblr:           your-id
   email:            hiroshi_kasai_math@yahoo.co.jp
 
 # Google-analytics
@@ -27,7 +27,7 @@ disqus:
 
 # URL
 #url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
-url:                "http://localhost:4000" # use this url when develop
+url:                "https://hiroshikasai.github.io/" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
 
@@ -52,8 +52,8 @@ nav:
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+#  - name:           "Github"
+#    url:            "https://github.com/AWEEKJ/Kiko-plus"
 
 
 
