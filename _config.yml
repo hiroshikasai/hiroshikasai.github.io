@@ -15,7 +15,7 @@ author:
   linkedin:         your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            hiroshi_kasai_math@yahoo.co.jp
 
 # Google-analytics
 google-analytics:
@@ -32,7 +32,7 @@ baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Asia/Tokyo
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -46,8 +46,8 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
+  - name:           "Profile"
+    url:            "/profile"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
