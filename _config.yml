@@ -50,6 +50,8 @@ nav:
     url:            "/profile"
   - name:           " 開設理念"
     url:            "/philosophy"
+  - name:           " 教材サンプル"
+    url:            "/sample"
 #  - name:           "Archive"
 #    url:            "/archive"
 #  - name:           "Tags"
