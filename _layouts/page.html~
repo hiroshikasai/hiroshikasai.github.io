@@ -3,7 +3,7 @@ layout: default
 ---
 <header>
   <h1 class="header-small">
-    <a href="{{site.url}}{{site.baseurl}}"><font color="red">ホーム</font></a>
+    <a href="{{site.url}}{{site.baseurl}}">ホーム</a>
   </h1>
 </header>
 <div class="page">
