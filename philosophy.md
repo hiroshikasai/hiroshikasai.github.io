@@ -1,4 +1,4 @@
-.---
+---
 title: 開設理念
 permalink: /philosophy/
 ---
