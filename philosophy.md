@@ -1,6 +1,4 @@
----
-title: 開設理念
-permalink: /philosophy/
+開設理念
 
 中高６年間　＞　中学３年間 + 高校３年間
 
